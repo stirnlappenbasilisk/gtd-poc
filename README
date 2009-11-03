@@ -1,0 +1,18 @@
+gtd-poc is a prototype for a web based implementation of the Getting Things Done paradigm.
+
+The goals of this preliminary implementation are:
+
+	- highest priority on usability and speed, thus using client side scripting
+	- implement as fast as possible, even at the expense of code quality
+	- determine a suitable data model
+	- develop and determine typical use cases
+
+Since this is a pure proof of concept, no priority is given to:
+
+	- clean code
+	- documentation
+	- authentication and multi user support (HTTP auth for now)
+	- cosmetic interface design
+	- browser compatibility
+
+A proper reimplementation (not necessarily using the same languages/libraries) is certain to follow if the concept turns out to be actually used by the author(s).
